@@ -1,3 +1,4 @@
 - kahvi
 - kerma
 - sokeri
+- lisätietoja
